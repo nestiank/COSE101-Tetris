@@ -1,9 +1,9 @@
 # 콘솔 테트리스 게임
 
 ![language-c][language-c]
-
+<br>
 ![participants-solo][participants-solo]
-
+<br>
 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 ![course-computer-programming-i][course-cose101]
 ![grade-a+][grade-a+]
